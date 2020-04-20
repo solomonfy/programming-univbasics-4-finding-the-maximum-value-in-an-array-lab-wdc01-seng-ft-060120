@@ -1,4 +1,4 @@
-def find_max_value([2,4,7,1,0])
+def find_max_value(['2','4','7','1','0'])
   count = 0
   max_value = -1
   while count < array.length do
