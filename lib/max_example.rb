@@ -7,5 +7,5 @@ def find_max_value([2,4,7,1,0])
     end
     count += 1
   end
-  max_value
+  puts max_value
 end
